@@ -1,0 +1,20 @@
+{
+  "name": "arquitectura_de_computadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funcion_incriptado.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duvan588/Arquitectura_de_Computadores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duvan588/Arquitectura_de_Computadores/issues"
+  },
+  "homepage": "https://github.com/Duvan588/Arquitectura_de_Computadores#readme"
+}
